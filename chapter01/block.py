@@ -1,5 +1,6 @@
 name="Mary"
 #password="swordfish" #あえてコメントアウト
+print("パスワードを入力してください")
 password=input()
 if name == "Mary":
     print("Hello, Mary!")
